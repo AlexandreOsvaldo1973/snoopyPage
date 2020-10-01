@@ -1,2 +1,2 @@
 # snoopy-page
-Pagina simples para os fans do Snoopy.
+Página simples para os fans do Snoopy.
